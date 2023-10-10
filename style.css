@@ -1,0 +1,33 @@
+.container {
+  margin: auto;
+  text-align: center;
+  background-color: rgb(131, 237, 236);
+  padding:5% ;
+}
+
+h1{
+
+  font-size: 22px;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+input{
+
+align-items: center;
+width: 31%;
+height: 46px;
+background-color:  #3a7da4;
+border-radius: 16px;
+border-style: double;
+
+}
+
+input:hover{
+
+background-color: #201140;
+box-shadow: #d1ce0d;
+
+
+}
